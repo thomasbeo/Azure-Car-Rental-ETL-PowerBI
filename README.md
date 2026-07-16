@@ -1,5 +1,24 @@
 # Azure Car Rental ETL Pipeline & Power BI Dashboard
 
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-red)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow)
+![Data Factory](https://img.shields.io/badge/Azure-Data_Factory-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+## Table of Contents
+
+- Project Overview
+- Architecture
+- Technologies
+- Azure Resources
+- Database Schema
+- ETL Pipeline
+- Power BI Dashboard
+- Project Structure
+- How to Run
+- Skills Demonstrated
+
 An end-to-end cloud data engineering and business intelligence project built with Azure Blob Storage, Azure Data Factory, Azure SQL Database, SQL, and Power BI.
 
 ![Project Architecture](screenshots/09_project_architecture.png)
