@@ -306,7 +306,7 @@ The second report page includes:
 
 The current synthetic dataset produces:
 
-- Total revenue: **€7,230**
+- Total revenue: **€7,23**
 - Total rentals: **15**
 - Total customers: **15**
 - Average customer rating: **4.40**
